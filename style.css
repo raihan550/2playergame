@@ -1,0 +1,16 @@
+#inputValue,
+#currentResult,
+#resultHistory {
+  max-width: 400px;
+  margin: 0 auto;
+}
+
+#resultHistory {
+  margin-top: 16px;
+}
+
+.banner {
+  color: #ffd23f;
+  font-size: 35px;
+  font-family: sans-serif;
+}
